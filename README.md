@@ -8,6 +8,15 @@ A modern, responsive, and premium portfolio website showcasing my work as a **Fu
 
 ---
 
+
+## 👨🏻‍💻 Author
+
+- Hitesh Ajit Pandey
+
+  
+---
+
+
 ## ✨ Features
 
 - 💎 Premium Modern UI
